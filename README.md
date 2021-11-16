@@ -1,4 +1,4 @@
-# Emily-Williams
+# Creative Computing Process
 
 The process of learning coding and circuits can be slow; it is confusing can take time to get used to it, to get moving.
 
