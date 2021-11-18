@@ -37,11 +37,13 @@ https://dribbble.com/glebich
 
 Using After Effects, I matched the background to the one of the circle colours in order to make more of a bubble style, then used a distort feature to create the movement. A next step would be to perhaps add more shapes that would become incorporated into the main shape, making it increase in size throughout the animation, or to maybe have it moving across the screen. 
 
-Another feature I considered changing were the colours so that it looked more realistic in terms of water.. howeever, I decided against this as I also wanted connotaions to the colours of lights, hence the use of various colours.
+Another feature I considered changing were the colours so that it looked more realistic in terms of water.. however, I decided against this as I also wanted connotaions to the colours of lights, hence the use of various colours.
 
 <img src="https://user-images.githubusercontent.com/94388235/142457408-2921ff96-485d-46d1-811b-081546a18d15.png" width="480" height="400"> <img src="https://user-images.githubusercontent.com/94388235/142457836-f7f56008-c4e0-48f9-946f-9a71105feaf2.png" width="480" height="400"> 
 
 I also experiemnted with a black background to see if would make the circle. stand out more but found it wasn't as effective as the coloured version.
+
+Finally, when uploading to padlet, I had to compress the file size to a much lower quality in order for it to be small enough...
 
 ## Reflection
 I initially thought that I wouldn’t like this week's project as I generally don't really enjoy coding, which I thought was what we would be doing. Despite this, I approached it with an open mind and ended up liking it. It’s a lot less about the computer coding and much more about using these elements combined with creative computing overall, leading to why I chose to explore this area of design, and go back to Adobe After Effects to create my final outcome. Throughout my research, I have developed an even keener interest in Creative Computing.
