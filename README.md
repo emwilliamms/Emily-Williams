@@ -48,5 +48,7 @@ Finally, when uploading to padlet, I had to compress the file size to a much low
 ## Reflection
 I initially thought that I wouldn’t like this week's project as I generally don't really enjoy coding, which I thought was what we would be doing. Despite this, I approached it with an open mind and ended up liking it. It’s a lot less about the computer coding and much more about using these elements combined with creative computing overall, leading to why I chose to explore this area of design, and go back to Adobe After Effects to create my final outcome. Throughout my research, I have developed an even keener interest in Creative Computing.
 
-### Bibliography
+#### Bibliography
 https://www.energy.gov/eere/water/hydropower-basics#:~:text=Hydropower%2C%20or%20hydroelectric%20power%2C%20is,moving%20water%20to%20generate%20electricity.&text=Some%20may%20be%20very%20large,water%20facilities%20or%20irrigation%20ditches.
+
+https://www.sciencelearn.org.nz/resources/47-colours-of-light
