@@ -45,6 +45,8 @@ I also experiemnted with a black background to see if would make the circle. sta
 
 Finally, when uploading to padlet, I had to compress the file size to a much lower quality in order for it to be small enough...
 
+https://user-images.githubusercontent.com/94388235/142644657-20181f36-97ac-4af4-aa33-f59165bb00b3.mov
+
 ## Reflection
 I initially thought that I wouldn’t like this week's project as I generally don't really enjoy coding, which I thought was what we would be doing. Despite this, I approached it with an open mind and ended up liking it. It’s a lot less about the computer coding and much more about using these elements combined with creative computing overall, leading to why I chose to explore this area of design, and go back to Adobe After Effects to create my final outcome. Throughout my research, I have developed an even keener interest in Creative Computing.
 
